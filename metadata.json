@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi & Cuti PPNPN - Fingerprint & Google Sheets",
+  "description": "Sistem otomatisasi rekap mesin fingerprint, portal mandiri pengajuan izin cuti pegawai dengan 1 akun Google bersama, persetujuan admin, dan integrasi API Google Apps Script & Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
